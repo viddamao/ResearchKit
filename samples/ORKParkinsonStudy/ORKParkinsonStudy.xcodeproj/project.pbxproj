@@ -615,14 +615,14 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_COMPLICATION_NAME = Complication;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = W3VZ6J3WS9;
 				INFOPLIST_FILE = "ORKParkinsonStudy WatchKit Extension/Supporting Files/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@executable_path/../../Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.example.researchkit-samplecode.ORKParkinsonStudy.watchkitapp.watchkitextension";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.example.researchkit-samplecode.ORKParkinsonStudy1.watchkitapp.watchkitextension";
 				PRODUCT_NAME = "${TARGET_NAME}";
 				SDKROOT = watchos;
 				SKIP_INSTALL = YES;
@@ -638,14 +638,14 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_COMPLICATION_NAME = Complication;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = W3VZ6J3WS9;
 				INFOPLIST_FILE = "ORKParkinsonStudy WatchKit Extension/Supporting Files/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@executable_path/../../Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.example.researchkit-samplecode.ORKParkinsonStudy.watchkitapp.watchkitextension";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.example.researchkit-samplecode.ORKParkinsonStudy1.watchkitapp.watchkitextension";
 				PRODUCT_NAME = "${TARGET_NAME}";
 				SDKROOT = watchos;
 				SKIP_INSTALL = YES;
@@ -661,10 +661,10 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = W3VZ6J3WS9;
 				IBSC_MODULE = ORKParkinsonStudy_WatchKit_Extension;
 				INFOPLIST_FILE = "ORKParkinsonStudy WatchKit App/Info.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.example.researchkit-samplecode.ORKParkinsonStudy.watchkitapp";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.example.researchkit-samplecode.ORKParkinsonStudy1.watchkitapp";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = watchos;
 				SKIP_INSTALL = YES;
@@ -679,10 +679,10 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = W3VZ6J3WS9;
 				IBSC_MODULE = ORKParkinsonStudy_WatchKit_Extension;
 				INFOPLIST_FILE = "ORKParkinsonStudy WatchKit App/Info.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.example.researchkit-samplecode.ORKParkinsonStudy.watchkitapp";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.example.researchkit-samplecode.ORKParkinsonStudy1.watchkitapp";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = watchos;
 				SKIP_INSTALL = YES;
@@ -698,14 +698,14 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = W3VZ6J3WS9;
 				INFOPLIST_FILE = "$(SRCROOT)/ORKParkinsonStudy/Supporting Files/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.example.researchkit-samplecode.ORKParkinsonStudy";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.example.researchkit-samplecode.ORKParkinsonStudy1";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -718,14 +718,14 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = W3VZ6J3WS9;
 				INFOPLIST_FILE = "$(SRCROOT)/ORKParkinsonStudy/Supporting Files/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.example.researchkit-samplecode.ORKParkinsonStudy";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.example.researchkit-samplecode.ORKParkinsonStudy1";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";

@@ -3454,6 +3454,7 @@
 						CreatedOnToolsVersion = 6.2;
 					};
 					B183A4731A8535D100C76870 = {
+						DevelopmentTeam = W3VZ6J3WS9;
 						LastSwiftMigration = 0900;
 					};
 					B18FF3A41A9FE25700C0C3B0 = {
@@ -4144,9 +4145,11 @@
 			buildSettings = {
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				DEAD_CODE_STRIPPING = YES;
 				DEFINES_MODULE = YES;
+				DEVELOPMENT_TEAM = W3VZ6J3WS9;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
